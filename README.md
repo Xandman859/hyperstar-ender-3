@@ -1,3 +1,9 @@
+
+<img width="2268" height="4032" alt="IMG_6729" src="https://github.com/user-attachments/assets/6abb86af-2407-4551-92a7-95ed1c8da5a5" />
+
+
+
+
 Ender 3 V6 Hotend Mount
 
 A custom hotend mount designed to fit the Creality Ender 3 with an E3D V6-style hotend.
